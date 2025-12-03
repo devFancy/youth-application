@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dec6876-ced0-4f7d-805d-2c9fa84ef888" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/img/kakaopayinsurance/kakaopay_corporate_governance.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/kakaopayinsurance/kakaopay_insurance.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/kakaopayinsurance/kakaopayinsurance_service.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2차과제.md" beforeDir="false" afterPath="$PROJECT_DIR$/2차과제.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +79,7 @@
       <workItem from="1764147652622" duration="753000" />
       <workItem from="1764657814277" duration="4119000" />
       <workItem from="1764662268546" duration="1711000" />
-      <workItem from="1764738637937" duration="9029000" />
+      <workItem from="1764738637937" duration="9367000" />
     </task>
     <servers />
   </component>
