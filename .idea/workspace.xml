@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dec6876-ced0-4f7d-805d-2c9fa84ef888" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/youth-application.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tossbank/tossbank_organization_202503.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/팬시_2차과제_카카오페이손해보험.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2차과제.md" beforeDir="false" afterPath="$PROJECT_DIR$/팬시_2차과제.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tossbank/tossbank_organization_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/tossbank/tossbank_squad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/팬시_2차과제.md" beforeDir="false" afterPath="$PROJECT_DIR$/팬시_2차과제.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +85,7 @@
       <workItem from="1764738637937" duration="10788000" />
       <workItem from="1764835313047" duration="206000" />
       <workItem from="1764846049121" duration="1535000" />
-      <workItem from="1765171593149" duration="5572000" />
+      <workItem from="1765171593149" duration="9000000" />
     </task>
     <servers />
   </component>
